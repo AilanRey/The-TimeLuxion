@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://ailanrey.github.io/The-TimeLuxion/</loc>
+        <priority>1.00</priority>
+    </url>
+
+    <url>
+    
+<loc>https://ailanrey.github.io/The-TimeLuxion/index.html</loc>
+    <priority>0.90</priority>
+    </url>
+
+    <url>
+<loc>https://ailanrey.github.io/The-TimeLuxion/contact.html</loc>
+    <priority>0.80</priority>
+    </url>
+
+    <url>
+<loc>https://ailanrey.github.io/The-TimeLuxion/products.html</loc>
+    <priority>0.80</priority>
+    </url>
+
+    <url>
+<loc>https://ailanrey.github.io/The-TimeLuxion/dahon.html</loc>
+    <priority>0.70</priority>
+    </url>
+
+</urlset>
